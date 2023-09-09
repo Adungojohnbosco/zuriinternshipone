@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: rgb(51, 36, 5);
+}
+
+#slackDisplayImage {
+    max-width: 200px;
+    border-radius: 50%;
+    padding: 12px;
+    column-width: 3px;
+    border-color: rgb(221, 130, 19);
+    border-radius: 90px;
+}
+h1{
+    color: rgb(230, 227, 56);
+    text-overflow: inherit;
+    text-shadow: 15px;
+    border-color: black;
+    text-size-adjust: 15px;
+    font-size: 40px;
+}
+h2{
+    color: rgb(230, 52, 206);
+    border-color: rgb(22, 223, 22);
+    font-size: 35px;
+}
+p{
+    color: rgb(214, 182, 39);
+    text-align: center;
+    text-decoration-color: beige;
+    font-size: 30px;
+    font-display: 43px;
+    font-style: bold;
+}
